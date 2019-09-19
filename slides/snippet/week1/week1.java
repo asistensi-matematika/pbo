@@ -60,5 +60,26 @@ class MultiplicationTable {
             System.out.printf("%d x %d = %d", n, i, n * i).println();
         }
     }
+    public static void print(int n, int from, int to){
+        for (int i = from; i < to; i++) {
+            System.out.printf("%d x %d  = %d", n, i, n*i).println();
+        }
 
+    }
+}
+class MultiplicationTableCakep{
+    public static void print(){
+        /* secara default kalo gak dikasih argumen ya ngeprint perkalian lima */
+        print(5,1,10);
+    }
+
+    public static void print(int n){
+        /* ngeprint perkalian int n, dari 1-10 */
+        print(n, 1,10);
+    }
+    public static void print(int n, int from, int to){
+        for (int i = from; i < to; i++) {
+            System.out.printf("%d x %d  = %d", n, i, n*i).println();
+        }
+    }
 }
