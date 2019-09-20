@@ -6,6 +6,8 @@ public class week1 {
         MultiplicationTable pmt = new MultiplicationTable();
         pmt.print();
         pmt.print(8);
+        MultiplicationTableCakep pmt_c = new MultiplicationTableCakep(); 
+        pmt_c.print(5);
 
         Scanner s =  new Scanner(System.in);
         System.out.println("check if prime or not");
@@ -78,7 +80,7 @@ class MultiplicationTableCakep{
         print(n, 1,10);
     }
     public static void print(int n, int from, int to){
-        for (int i = from; i < to; i++) {
+        for (int i = from; i <= to; i++) {
             System.out.printf("%d x %d  = %d", n, i, n*i).println();
         }
     }
