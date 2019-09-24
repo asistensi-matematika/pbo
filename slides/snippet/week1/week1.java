@@ -6,7 +6,7 @@ public class week1 {
         MultiplicationTable pmt = new MultiplicationTable();
         pmt.print();
         pmt.print(8);
-        MultiplicationTableCakep pmt_c = new MultiplicationTableCakep(); 
+        MultiplicationTableCakep pmt_c = new MultiplicationTableCakep();
         pmt_c.print(5);
 
         Scanner s =  new Scanner(System.in);
