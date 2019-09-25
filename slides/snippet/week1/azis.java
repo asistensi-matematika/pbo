@@ -1,6 +1,23 @@
 public class azis {
     public static void main(String[] args) {
-        new faculty();
+        // new faculty();
+        int val = 2 ;
+        Test t = new Test(val);
+    }
+}
+
+class Test{
+    int x;
+    Test(String s){
+        this();
+        System.out.println(s);
+        System.out.println("this");
+    }
+    Test(int x){
+        this("is");
+    }
+    Test(){
+        System.out.println("a test");
     }
 }
 
