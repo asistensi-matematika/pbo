@@ -2,6 +2,7 @@ public class azis {
     public static void main(String[] args) {
         int val = 2;
         Test t = new Test(val);
+        Test b = new Test("berakkuda"); 
     }
 }
 
