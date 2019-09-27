@@ -1,6 +1,5 @@
 public class azis {
     public static void main(String[] args) {
-        // new faculty();
         int val = 2;
         Test t = new Test(val);
     }
