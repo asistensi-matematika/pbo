@@ -6,22 +6,15 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - azis",
-            "request": "launch",
-            "mainClass": "azis",
-            "projectName": "pbo_c941443"
-        },
-        {
-            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-week1",
+            "name": "Debug (Launch)-azis",
             "request": "launch",
-            "mainClass": "week1"
+            "mainClass": "azis"
         }
     ]
 }
