@@ -52,14 +52,15 @@ public class week1 {
 class MultiplicationTable {
     public static void print() {
         int n = 5;
-        for (int i = 1; i <= n; i++) {
+        for (int i = 1; i <= ; i++) {
             System.out.println(n + " x " + i + " = " + n * i);
         }
     }
 
     public static void print(int n) {
         for (int i = 1; i <= 10; i++) {
-            System.out.printf("%d x %d = %d", n, i, n * i).println();
+            // System.out.printf("%d x %d = %d", n, i, n * i).println();
+            System.out.println(n+"x"+i+"="+n*i);
         }
     }
     public static void print(int n, int from, int to){
