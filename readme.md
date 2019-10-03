@@ -1,17 +1,21 @@
 # week 1
 - [presentation - live coding](https://github.com/asistensi-matematika/pbo/tree/master/slides/snippet/week1)
 - [tugas](https://github.com/asistensi-matematika/tugas2-pbo)
-  ## nilai tugas
+----
+**jangan lupa cek issues**
+
+----
+    ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai   | REPO                                                               |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ------- | ------------------------------------------------------------------ |
 | FITRIA URBACH                         |            |               |         |                 | #DIV/0! |                                                                    |
 | PANDE PUTU VELYA CAHAYA FORTUNA       |            |               |         |                 | #DIV/0! |                                                                    |
-| RISTA ROSDIANAWATI                    | 6          | 6             | 9       | 10              | 7.75    |                                                                    |
+| RISTA ROSDIANAWATI                    | 6          | 6             | 9       | 10              | 7.75    | https://github.com/asistensi-matematika/tugas2-pbo-tatarosdiana18  |
 | SANDHI WIJAYA ROSGA                   |            |               |         |                 | #DIV/0! |                                                                    |
 | MUHAMMAD AHNAF AMRULLAH               |            |               |         |                 | #DIV/0! |                                                                    |
 | APRILIA SUSANTI                       | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas2-pbo-aprilia-susanti |
-| MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN | 7          | 9             | 9       | 10              | 8.75    | https://github.com/asistensi-matematika/tugas2-pbo-ditaprihatini   |
-| DITA PRIHATINI                        |            |               |         |                 | #DIV/0! |                                                                    |
+| MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN |            |               |         |                 |         |                                                                    |
+| DITA PRIHATINI                        | 7          | 9             | 9       | 10              | 8.75    | https://github.com/asistensi-matematika/tugas2-pbo-ditaprihatini   |
 | HABIBATUL AZKIYAH                     | 9          | 9             | 9       | 10              | 9.25    | https://github.com/asistensi-matematika/tugas2-pbo-azki0082        |
 | DWI RISMAYANTI                        |            |               |         |                 | #DIV/0! |                                                                    |
 | ADMIRAL NELSON SAMUEL ADYATAMA LITIK  |            |               |         |                 | #DIV/0! |                                                                    |
