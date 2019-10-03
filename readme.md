@@ -1,33 +1,30 @@
-# week 1 
+# week 1
 - [presentation - live coding](https://github.com/asistensi-matematika/pbo/tree/master/slides/snippet/week1)
 - [tugas](https://github.com/asistensi-matematika/tugas2-pbo)
-## nilai tugas 
-| No. | NRP           | Nama                                  | Nilai      |               |         |                 |                                                                    |       |
-| --- | ------------- | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ------------------------------------------------------------------ | ----- |
-|     |               |                                       | Formatting | Hasil Running | Laporan | Ketepatan Waktu | REPO                                                               | Nilai |
-| 1   | 6111840000020 | FITRIA URBACH                         |            |               |         |                 |                                                                    |       |
-| 2   | 6111840000024 | PANDE PUTU VELYA CAHAYA FORTUNA       |            |               |         |                 |                                                                    |       |
-| 3   | 6111840000028 | RISTA ROSDIANAWATI                    |            |               |         |                 |                                                                    |       |
-| 4   | 6111840000031 | SANDHI WIJAYA ROSGA                   |            |               |         |                 |                                                                    |       |
-| 5   | 6111840000051 | MUHAMMAD AHNAF AMRULLAH               |            |               |         |                 |                                                                    |       |
-| 6   | 6111840000055 | APRILIA SUSANTI                       | 9          | 9             | 9       | 10              | https://github.com/asistensi-matematika/tugas2-pbo-aprilia-susanti | 9.25  |
-| 7   | 6111840000066 | MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN |            |               |         |                 |                                                                    |       |
-| 8   | 6111840000080 | DITA PRIHATINI                        |            |               |         |                 |                                                                    |       |
-| 9   | 6111840000082 | HABIBATUL AZKIYAH                     |            |               |         |                 |                                                                    |       |
-| 10  | 6111840000083 | DWI RISMAYANTI                        |            |               |         |                 |                                                                    |       |
-| 11  | 6111840000086 | ADMIRAL NELSON SAMUEL ADYATAMA LITIK  |            |               |         |                 |                                                                    |       |
-| 12  | 6111840000087 | MUHAMMAD HANIF SULAIMAN ISKANDAR      |            |               |         |                 |                                                                    |       |
-| 13  | 6111840000088 | WICAKSONO LEKSONO MUHAMAD             |            |               |         |                 |                                                                    |       |
-| 14  | 6111840000090 | SANTI CLARA                           |            |               |         |                 |                                                                    |       |
-| 15  | 6111840000092 | ADILA SEKARRATRI DWI PRAYITNO         |            |               |         |                 |                                                                    |       |
-| 16  | 6111840000094 | MADE ASTLA DELLA MAREITA              |            |               |         |                 |                                                                    |       |
-| 17  | 6111840000096 | MUH SYAFIQ HIDAYATULLAH               |            |               |         |                 |                                                                    |       |
-| 18  | 6111840000097 | WAHYU TRIA ISTIGHOSAH MN              |            |               |         |                 |                                                                    |       |
-| 19  | 6111840000101 | IZHAR BRUR ABRUZI                     |            |               |         |                 |                                                                    |       |
-| 20  | 6111840000103 | TSAMARAH RANA NUGRAHA                 |            |               |         |                 |                                                                    |       |
-| 21  | 6111840000104 | ANGELA NATHANIA                       |            |               |         |                 |                                                                    |       |
-| 22  | 6111840000106 | JOHANNA SERENA ALIM                   |            |               |         |                 |                                                                    |       |
-| 23  | 6111840000107 | OKTAVIANA LARASATI                    |            |               |         |                 |                                                                    |       |
-| 24  | 6111840000109 | FINCHA IRBAHAZARA ZULFA               |            |               |         |                 |                                                                    |       |
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/MAlSjtxy5ak/0.jpg)](http://www.youtube.com/watch?v=MAlSjtxy5ak "Video Title")
+  ## nilai tugas
+| Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai   | REPO                                                               |
+| ------------------------------------- | ---------- | ------------- | ------- | --------------- | ------- | ------------------------------------------------------------------ |
+| FITRIA URBACH                         |            |               |         |                 | #DIV/0! |                                                                    |
+| PANDE PUTU VELYA CAHAYA FORTUNA       |            |               |         |                 | #DIV/0! |                                                                    |
+| RISTA ROSDIANAWATI                    | 6          | 6             | 9       | 10              | 7.75    |                                                                    |
+| SANDHI WIJAYA ROSGA                   |            |               |         |                 | #DIV/0! |                                                                    |
+| MUHAMMAD AHNAF AMRULLAH               |            |               |         |                 | #DIV/0! |                                                                    |
+| APRILIA SUSANTI                       | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas2-pbo-aprilia-susanti |
+| MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN | 7          | 9             | 9       | 10              | 8.75    | https://github.com/asistensi-matematika/tugas2-pbo-ditaprihatini   |
+| DITA PRIHATINI                        |            |               |         |                 | #DIV/0! |                                                                    |
+| HABIBATUL AZKIYAH                     | 9          | 9             | 9       | 10              | 9.25    | https://github.com/asistensi-matematika/tugas2-pbo-azki0082        |
+| DWI RISMAYANTI                        |            |               |         |                 | #DIV/0! |                                                                    |
+| ADMIRAL NELSON SAMUEL ADYATAMA LITIK  |            |               |         |                 | #DIV/0! |                                                                    |
+| MUHAMMAD HANIF SULAIMAN ISKANDAR      |            |               |         |                 | #DIV/0! |                                                                    |
+| WICAKSONO LEKSONO MUHAMAD             |            |               |         |                 | #DIV/0! |                                                                    |
+| SANTI CLARA                           |            |               |         |                 | #DIV/0! |                                                                    |
+| ADILA SEKARRATRI DWI PRAYITNO         |            |               |         |                 | #DIV/0! |                                                                    |
+| MADE ASTLA DELLA MAREITA              |            |               |         |                 | #DIV/0! |                                                                    |
+| MUH SYAFIQ HIDAYATULLAH               |            |               |         |                 | #DIV/0! |                                                                    |
+| WAHYU TRIA ISTIGHOSAH MN              |            |               |         |                 | #DIV/0! |                                                                    |
+| IZHAR BRUR ABRUZI                     |            |               |         |                 | #DIV/0! |                                                                    |
+| TSAMARAH RANA NUGRAHA                 |            |               |         |                 | #DIV/0! |                                                                    |
+| ANGELA NATHANIA                       |            |               |         |                 | #DIV/0! |                                                                    |
+| JOHANNA SERENA ALIM                   |            |               |         |                 | #DIV/0! |                                                                    |
+| OKTAVIANA LARASATI                    |            |               |         |                 | #DIV/0! |                                                                    |
+| FINCHA IRBAHAZARA ZULFA               |            |               |         |                 |         |                                                                    |
