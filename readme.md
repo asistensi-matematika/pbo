@@ -5,7 +5,7 @@
 **jangan lupa cek issues**
 
 ----
-   ## nilai tugas
+    ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai   | REPO                                                                                                                                   |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | FITRIA URBACH                         |            |               |         |                 | #DIV/0! |                                                                                                                                        |
@@ -27,10 +27,10 @@
 | MUH SYAFIQ HIDAYATULLAH               |            |               |         | 6               | 6       |                                                                                                                                        |
 | WAHYU TRIA ISTIGHOSAH MN              |            |               |         | 7               | 7       |                                                                                                                                        |
 | IZHAR BRUR ABRUZI                     |            |               |         | 7               | 7       |                                                                                                                                        |
-| TSAMARAH RANA NUGRAHA                 | 9          | 7             | 9       | 7               | 8       |                                                                                                                                        |
+| TSAMARAH RANA NUGRAHA                 | 9          | 7             | 9       | 7               | 8       | https://github.com/asistensi-matematika/tugas2-pbo-tsamarahrana                                                                        |
 | ANGELA NATHANIA                       | 9          | 9             | 9       | 9               | 9       | https://github.com/asistensi-matematika/tugas2-pbo-angelaanathania                                                                     |
-| JOHANNA SERENA ALIM                   | 9          | 9             | 9       | 7               | 8.5     |                                                                                                                                        |
+| JOHANNA SERENA ALIM                   | 9          | 9             | 9       | 7               | 8.5     | https://github.com/asistensi-matematika/tugas2-pbo-joooooh                                                                             |
 | OKTAVIANA LARASATI                    | 7.5        | 8             | 9       | 8               | 8.125   | https://github.com/asistensi-matematika/tugas2-pbo-oktavianalarasaa                                                                    |
-| FINCHA IRBAHAZARA ZULFA               | 7          | 9             | 9       | 8               | 8.25    |                                                                                                                                        |
+| FINCHA IRBAHAZARA ZULFA               | 7          | 9             | 9       | 8               | 8.25    | https://github.com/asistensi-matematika/tugas2-pbo-Fincha05                                                                            |
 | maulidatulfunna1                      | 8          | 6             | 9       | 9               | 8       |                                                                                                                                        |
 | afifahna                              | 9          | 9             | 9       | 9               | 9       |                                                                                                                                        |
