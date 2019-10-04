@@ -5,7 +5,7 @@
 **jangan lupa cek issues**
 
 ----
-     ## nilai tugas
+      ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai   | REPO                                                                                                                                   |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | FITRIA URBACH                         |            |               |         |                 | #DIV/0! |                                                                                                                                        |
@@ -24,7 +24,7 @@
 | SANTI CLARA                           | 6          | 6             | 9       | 9               | 7.5     | https://github.com/asistensi-matematika/tugas2-pbo-santiclara                                                                          |
 | ADILA SEKARRATRI DWI PRAYITNO         |            |               |         | 7               | 7       |                                                                                                                                        |
 | MADE ASTLA DELLA MAREITA              | 7          | 8             | 9       | 9               | 8.25    | https://github.com/asistensi-matematika/tugas2-pbo-della23/blob/master/tugas_a.md                                                      |
-| MUH SYAFIQ HIDAYATULLAH               |            |               |         | 6               | 6       |                                                                                                                                        |
+| MUH SYAFIQ HIDAYATULLAH               | 7          | 9             | 9       | 7               | 8       | https://github.com/asistensi-matematika/tugas2-pbo-sficklyn                                                                            |
 | WAHYU TRIA ISTIGHOSAH MN              |            |               |         | 7               | 7       |                                                                                                                                        |
 | IZHAR BRUR ABRUZI                     |            |               |         | 7               | 7       |                                                                                                                                        |
 | TSAMARAH RANA NUGRAHA                 | 9          | 7             | 9       | 7               | 8       | https://github.com/asistensi-matematika/tugas2-pbo-tsamarahrana                                                                        |
