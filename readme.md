@@ -5,7 +5,7 @@
 **jangan lupa cek issues**
 
 ----
- ## nilai tugas
+  ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai       | REPO                                                                                                                                   |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | FITRIA URBACH                         |            |               |         |                 | #DIV/0!     |                                                                                                                                        |
@@ -20,10 +20,10 @@
 | DWI RISMAYANTI                        |            |               |         |                 | #DIV/0!     |                                                                                                                                        |
 | ADMIRAL NELSON SAMUEL ADYATAMA LITIK  | 9          | 9             | 9       | 9               | 9           | https://github.com/asistensi-matematika/tugas2-pbo-admirallitik/blob/master/tugasAsistensiWeek2/src/packageAsistensi3/bilKompleks.java |
 | MUHAMMAD HANIF SULAIMAN ISKANDAR      |            |               |         |                 | #DIV/0!     |                                                                                                                                        |
-| WICAKSONO LEKSONO MUHAMAD             |            |               |         |                 | #DIV/0!     |                                                                                                                                        |
-| SANTI CLARA                           |            |               |         |                 | #DIV/0!     |                                                                                                                                        |
+| WICAKSONO LEKSONO MUHAMAD             | 9          | 9             | 9       | 9               | 9           | https://github.com/asistensi-matematika/tugas2-pbo-wicaksonolm                                                                         |
+| SANTI CLARA                           | 6          | 6             | 9       | 9               | 7.5         | https://github.com/asistensi-matematika/tugas2-pbo-santiclara                                                                          |
 | ADILA SEKARRATRI DWI PRAYITNO         |            |               |         |                 | #DIV/0!     |                                                                                                                                        |
-| MADE ASTLA DELLA MAREITA              |            |               |         |                 | #DIV/0!     |                                                                                                                                        |
+| MADE ASTLA DELLA MAREITA              | 7          | 8             | 9       | 9               | 8.25        | https://github.com/asistensi-matematika/tugas2-pbo-della23/blob/master/tugas_a.md                                                      |
 | MUH SYAFIQ HIDAYATULLAH               |            |               |         |                 | #DIV/0!     |                                                                                                                                        |
 | WAHYU TRIA ISTIGHOSAH MN              |            |               |         |                 | #DIV/0!     |                                                                                                                                        |
 | IZHAR BRUR ABRUZI                     |            |               |         |                 | #DIV/0!     |                                                                                                                                        |
@@ -33,3 +33,4 @@
 | OKTAVIANA LARASATI                    | 7.5        | 8             | 9       |                 | 8.166666667 | https://github.com/asistensi-matematika/tugas2-pbo-oktavianalarasaa                                                                    |
 | FINCHA IRBAHAZARA ZULFA               |            |               |         |                 | #DIV/0!     |                                                                                                                                        |
 | maulidatulfunna1                      | 8          | 6             | 9       | 9               | 8           |                                                                                                                                        |
+| afifahna                              | 9          | 9             | 9       | 9               | 9           |                                                                                                                                        |
