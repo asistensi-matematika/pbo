@@ -5,7 +5,7 @@
 **jangan lupa cek issues**
 
 ----
-        ## nilai tugas
+ 
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | REPO                                                                                                                                   |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | FITRIA URBACH                         |            |               |         | 7               | 7     |                                                                                                                                        |
@@ -35,3 +35,40 @@
 | maulidatulfunna1                      | 8          | 6             | 9       | 9               | 8     | https://github.com/asistensi-matematika/tugas2-pbo-maulidatulfunna1                                                                    |
 | afifahna                              | 9          | 9             | 9       | 9               | 9     | https://github.com/asistensi-matematika/tugas2-pbo-afifahna                                                                            |
 | annenabila                            | 7          | 9             | 9       | 8               | 8.25  | https://github.com/asistensi-matematika/tugas2-pbo-annenabila                                                                          |
+
+# week 2
+- [tugas](https://github.com/asistensi-matematika/tugas2-pbo)
+----
+**jangan lupa cek issues**
+
+----
+ ## nilai tugas
+| Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai   | REPO                                                               |
+| ------------------------------------- | ---------- | ------------- | ------- | --------------- | ------- | ------------------------------------------------------------------ |
+| FITRIA URBACH                         |            |               |         |                 | #DIV/0! |                                                                    |
+| PANDE PUTU VELYA CAHAYA FORTUNA       |            |               |         |                 | #DIV/0! |                                                                    |
+| RISTA ROSDIANAWATI                    |            |               |         |                 | #DIV/0! |                                                                    |
+| SANDHI WIJAYA ROSGA                   |            |               |         |                 | #DIV/0! |                                                                    |
+| MUHAMMAD AHNAF AMRULLAH               |            |               |         |                 | #DIV/0! |                                                                    |
+| APRILIA SUSANTI                       | 9          | 9             | 9       | 10              | 9.25    | https://github.com/asistensi-matematika/tugas3-pbo-aprilia-susanti |
+| MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN |            |               |         |                 | #DIV/0! |                                                                    |
+| DITA PRIHATINI                        |            |               |         |                 | #DIV/0! |                                                                    |
+| HABIBATUL AZKIYAH                     |            |               |         |                 | #DIV/0! |                                                                    |
+| DWI RISMAYANTI                        |            |               |         |                 | #DIV/0! |                                                                    |
+| ADMIRAL NELSON SAMUEL ADYATAMA LITIK  |            |               |         |                 | #DIV/0! |                                                                    |
+| MUHAMMAD HANIF SULAIMAN ISKANDAR      |            |               |         |                 | #DIV/0! |                                                                    |
+| WICAKSONO LEKSONO MUHAMAD             |            |               |         |                 | #DIV/0! |                                                                    |
+| SANTI CLARA                           |            |               |         |                 | #DIV/0! |                                                                    |
+| ADILA SEKARRATRI DWI PRAYITNO         |            |               |         |                 | #DIV/0! |                                                                    |
+| MADE ASTLA DELLA MAREITA              |            |               |         |                 | #DIV/0! |                                                                    |
+| MUH SYAFIQ HIDAYATULLAH               |            |               |         |                 | #DIV/0! |                                                                    |
+| WAHYU TRIA ISTIGHOSAH MN              |            |               |         |                 | #DIV/0! |                                                                    |
+| IZHAR BRUR ABRUZI                     |            |               |         |                 | #DIV/0! |                                                                    |
+| TSAMARAH RANA NUGRAHA                 |            |               |         |                 | #DIV/0! |                                                                    |
+| ANGELA NATHANIA                       |            |               |         |                 | #DIV/0! |                                                                    |
+| JOHANNA SERENA ALIM                   |            |               |         |                 | #DIV/0! |                                                                    |
+| OKTAVIANA LARASATI                    |            |               |         |                 | #DIV/0! |                                                                    |
+| FINCHA IRBAHAZARA ZULFA               |            |               |         |                 | #DIV/0! |                                                                    |
+| maulidatulfunna1                      |            |               |         |                 | #DIV/0! |                                                                    |
+| afifahna                              |            |               |         |                 | #DIV/0! |                                                                    |
+| annenabila                            |            |               |         |                 | #DIV/0! |                                                                    |
