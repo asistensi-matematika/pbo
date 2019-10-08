@@ -42,7 +42,7 @@
 **jangan lupa cek issues**
 
 ----
-  ## nilai tugas
+   ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai   | REPO                                                               |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ------- | ------------------------------------------------------------------ |
 | FITRIA URBACH                         |            |               |         |                 | #DIV/0! |                                                                    |
@@ -50,13 +50,13 @@
 | RISTA ROSDIANAWATI                    |            |               |         |                 | #DIV/0! |                                                                    |
 | SANDHI WIJAYA ROSGA                   |            |               |         |                 | #DIV/0! |                                                                    |
 | MUHAMMAD AHNAF AMRULLAH               |            |               |         |                 | #DIV/0! |                                                                    |
-| APRILIA SUSANTI                       | 9          | 10            | 9       | 10              | 9.5     | https://github.com/asistensi-matematika/tugas3-pbo-aprilia-susanti |
+| APRILIA SUSANTI                       | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-aprilia-susanti |
 | MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN |            |               |         |                 | #DIV/0! |                                                                    |
 | DITA PRIHATINI                        |            |               |         |                 | #DIV/0! |                                                                    |
 | HABIBATUL AZKIYAH                     |            |               |         |                 | #DIV/0! |                                                                    |
 | DWI RISMAYANTI                        |            |               |         |                 | #DIV/0! |                                                                    |
 | ADMIRAL NELSON SAMUEL ADYATAMA LITIK  |            |               |         |                 | #DIV/0! |                                                                    |
-| MUHAMMAD HANIF SULAIMAN ISKANDAR      | 9          | 9             | 9       | 10              | 9.25    | https://github.com/asistensi-matematika/tugas3-pbo-Hanif070201     |
+| MUHAMMAD HANIF SULAIMAN ISKANDAR      | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-Hanif070201     |
 | WICAKSONO LEKSONO MUHAMAD             |            |               |         |                 | #DIV/0! |                                                                    |
 | SANTI CLARA                           |            |               |         |                 | #DIV/0! |                                                                    |
 | ADILA SEKARRATRI DWI PRAYITNO         |            |               |         |                 | #DIV/0! |                                                                    |
