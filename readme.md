@@ -42,20 +42,20 @@
 **jangan lupa cek issues**
 
 ----
-   ## nilai tugas
+    ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai   | REPO                                                               |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ------- | ------------------------------------------------------------------ |
 | FITRIA URBACH                         |            |               |         |                 | #DIV/0! |                                                                    |
 | PANDE PUTU VELYA CAHAYA FORTUNA       |            |               |         |                 | #DIV/0! |                                                                    |
-| RISTA ROSDIANAWATI                    |            |               |         |                 | #DIV/0! |                                                                    |
+| RISTA ROSDIANAWATI                    | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-tatarosdiana18  |
 | SANDHI WIJAYA ROSGA                   |            |               |         |                 | #DIV/0! |                                                                    |
-| MUHAMMAD AHNAF AMRULLAH               |            |               |         |                 | #DIV/0! |                                                                    |
+| MUHAMMAD AHNAF AMRULLAH               | 9          | 8             | 9       | 10              | 9       |                                                                    |
 | APRILIA SUSANTI                       | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-aprilia-susanti |
 | MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN |            |               |         |                 | #DIV/0! |                                                                    |
-| DITA PRIHATINI                        |            |               |         |                 | #DIV/0! |                                                                    |
-| HABIBATUL AZKIYAH                     |            |               |         |                 | #DIV/0! |                                                                    |
+| DITA PRIHATINI                        | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-ditaprihatini   |
+| HABIBATUL AZKIYAH                     | 9          | 9             | 9       | 10              | 9.25    | https://github.com/asistensi-matematika/tugas3-pbo-azki0082        |
 | DWI RISMAYANTI                        |            |               |         |                 | #DIV/0! |                                                                    |
-| ADMIRAL NELSON SAMUEL ADYATAMA LITIK  |            |               |         |                 | #DIV/0! |                                                                    |
+| ADMIRAL NELSON SAMUEL ADYATAMA LITIK  | 9          | 8             | 9       | 10              | 9       |                                                                    |
 | MUHAMMAD HANIF SULAIMAN ISKANDAR      | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-Hanif070201     |
 | WICAKSONO LEKSONO MUHAMAD             |            |               |         |                 | #DIV/0! |                                                                    |
 | SANTI CLARA                           |            |               |         |                 | #DIV/0! |                                                                    |
@@ -63,12 +63,12 @@
 | MADE ASTLA DELLA MAREITA              |            |               |         |                 | #DIV/0! |                                                                    |
 | MUH SYAFIQ HIDAYATULLAH               |            |               |         |                 | #DIV/0! |                                                                    |
 | WAHYU TRIA ISTIGHOSAH MN              |            |               |         |                 | #DIV/0! |                                                                    |
-| IZHAR BRUR ABRUZI                     |            |               |         |                 | #DIV/0! |                                                                    |
-| TSAMARAH RANA NUGRAHA                 |            |               |         |                 | #DIV/0! |                                                                    |
+| IZHAR BRUR ABRUZI                     | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-izharabruzi     |
+| TSAMARAH RANA NUGRAHA                 | 6          | 6             | 9       | 10              | 7.75    | https://github.com/asistensi-matematika/tugas3-pbo-tsamarahrana    |
 | ANGELA NATHANIA                       |            |               |         |                 | #DIV/0! |                                                                    |
 | JOHANNA SERENA ALIM                   |            |               |         |                 | #DIV/0! |                                                                    |
 | OKTAVIANA LARASATI                    |            |               |         |                 | #DIV/0! |                                                                    |
 | FINCHA IRBAHAZARA ZULFA               |            |               |         |                 | #DIV/0! |                                                                    |
 | maulidatulfunna1                      |            |               |         |                 | #DIV/0! |                                                                    |
-| afifahna                              |            |               |         |                 | #DIV/0! |                                                                    |
+| afifahna                              | 9          | 8             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-afifahna        |
 | annenabila                            |            |               |         |                 | #DIV/0! |                                                                    |
