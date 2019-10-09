@@ -42,7 +42,7 @@
 **jangan lupa cek issues**
 
 ----
-    ## nilai tugas
+     ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai   | REPO                                                               |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ------- | ------------------------------------------------------------------ |
 | FITRIA URBACH                         |            |               |         |                 | #DIV/0! |                                                                    |
@@ -52,7 +52,7 @@
 | MUHAMMAD AHNAF AMRULLAH               | 9          | 8             | 9       | 10              | 9       |                                                                    |
 | APRILIA SUSANTI                       | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-aprilia-susanti |
 | MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN |            |               |         |                 | #DIV/0! |                                                                    |
-| DITA PRIHATINI                        | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-ditaprihatini   |
+| DITA PRIHATINI                        | 9          | 9             | 9       | 10              | 9.25    | https://github.com/asistensi-matematika/tugas3-pbo-ditaprihatini   |
 | HABIBATUL AZKIYAH                     | 9          | 9             | 9       | 10              | 9.25    | https://github.com/asistensi-matematika/tugas3-pbo-azki0082        |
 | DWI RISMAYANTI                        |            |               |         |                 | #DIV/0! |                                                                    |
 | ADMIRAL NELSON SAMUEL ADYATAMA LITIK  | 9          | 8             | 9       | 10              | 9       |                                                                    |
