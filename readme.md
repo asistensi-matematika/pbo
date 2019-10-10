@@ -42,7 +42,7 @@
 **jangan lupa cek issues**
 
 ----
-       ## nilai tugas
+        ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai   | REPO                                                               |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ------- | ------------------------------------------------------------------ |
 | FITRIA URBACH                         |            |               |         |                 | #DIV/0! |                                                                    |
@@ -61,7 +61,7 @@
 | SANTI CLARA                           |            |               |         |                 | #DIV/0! |                                                                    |
 | ADILA SEKARRATRI DWI PRAYITNO         |            |               |         |                 | #DIV/0! |                                                                    |
 | MADE ASTLA DELLA MAREITA              | 7          | 7             | 9       | 10              | 8.25    |                                                                    |
-| MUH SYAFIQ HIDAYATULLAH               |            |               |         |                 | #DIV/0! |                                                                    |
+| MUH SYAFIQ HIDAYATULLAH               | 9          | 8             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-sficklyn        |
 | WAHYU TRIA ISTIGHOSAH MN              |            |               |         |                 | #DIV/0! |                                                                    |
 | IZHAR BRUR ABRUZI                     | 8          | 9             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-izharabruzi     |
 | TSAMARAH RANA NUGRAHA                 | 6          | 6             | 9       | 10              | 7.75    | https://github.com/asistensi-matematika/tugas3-pbo-tsamarahrana    |
@@ -71,4 +71,4 @@
 | FINCHA IRBAHAZARA ZULFA               |            |               |         |                 | #DIV/0! |                                                                    |
 | maulidatulfunna1                      |            |               |         |                 | #DIV/0! |                                                                    |
 | afifahna                              | 9          | 8             | 9       | 10              | 9       | https://github.com/asistensi-matematika/tugas3-pbo-afifahna        |
-| annenabila                            |            |               |         |                 | #DIV/0! |                                                                    |
+| annenabila                            | 7          | 9             | 9       | 10              | 8.75    | https://github.com/asistensi-matematika/tugas3-pbo-annenabila      |
