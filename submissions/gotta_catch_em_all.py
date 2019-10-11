@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Digunakan untuk mendapatkan hasil dari spreadsheet --> markdown table
+Digunakan untuk mendapatkan hasil dari spreadsheet --> markdown table --> update readm.md bagian ## nilai tugas
  """
 
 import pandas as pd
@@ -15,7 +15,7 @@ def get_sheet(SHEET, CSV_SPREADSHEET='Asistensi PBO Jumat 2019'):
     spread = Spread(CSV_SPREADSHEET)
     spread.open_sheet(SHEET)
     df = spread.sheet_to_df()
-    df.drop(['Catatan'], axis=1, inplace=True)
+    df['Nilai'] = pd.to_numeric(df['Nilai'],errors='coerce')
     links = []
     for link in tqdm(df.REPO,desc='issue'):
         try:
@@ -23,13 +23,17 @@ def get_sheet(SHEET, CSV_SPREADSHEET='Asistensi PBO Jumat 2019'):
         except:
             links.append(None)
     df['Issues']=links
-    df.drop(['REPO'], axis=1, inplace=True)
+    df.drop(['Catatan', 'REPO'], axis=1, inplace=True)
     return df
 
+def get_details(csv):
+    df = pd.read_csv(csv)
+    return df.Nilai.mean()
 
-def update_md(file_name, md=r'../readme.md'):
+def update_md(file_name,df='tugas3-pbo.csv', md=r'../readme.md'):
     readme = open(md).read().split('## nilai tugas')
-    readme[-1] = '## nilai tugas\n'+get_latest_csv(file_name)
+    readme[-1] = '## nilai tugas\n'+get_latest_csv(file_name)+'\n\n\n'
+    readme.append(f'Rata-rata: {get_details(df)}')
     file_md = " ".join(readme)
     with open(md, 'w+') as f:
         f.write(file_md)
@@ -53,7 +57,7 @@ def get_issues(link):
 def main(file_name, SHEET):
     df = get_sheet(SHEET)
     df.to_csv(f'{file_name}', index=False)
-    update_md(file_name)
+    update_md(file_name,df=file_name)
     print(f'successfully saved to {file_name} ')
 
 
