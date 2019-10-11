@@ -42,7 +42,7 @@
 **jangan lupa cek issues**
 
 ----
-  ## nilai tugas
+   ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai   | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ------- | ------ |
 | FITRIA URBACH                         |            |               |         |                 | #DIV/0! |        |
@@ -64,8 +64,8 @@
 | MUH SYAFIQ HIDAYATULLAH               | 9          | 8             | 9       | 10              | 9       | 0      |
 | WAHYU TRIA ISTIGHOSAH MN              |            |               |         |                 | #DIV/0! |        |
 | IZHAR BRUR ABRUZI                     | 8          | 9             | 9       | 10              | 9       | 0      |
-| TSAMARAH RANA NUGRAHA                 | 6          | 6             | 9       | 10              | 7.75    | 2      |
-| ANGELA NATHANIA                       | 7          | 7             | 8       | 10              | 8       | 3      |
+| TSAMARAH RANA NUGRAHA                 | 9          | 8             | 9       | 10              | 9       | 1      |
+| ANGELA NATHANIA                       | 7          | 7             | 9       | 10              | 8.25    | 2      |
 | JOHANNA SERENA ALIM                   |            |               |         |                 | #DIV/0! |        |
 | OKTAVIANA LARASATI                    |            |               |         |                 | #DIV/0! |        |
 | FINCHA IRBAHAZARA ZULFA               |            |               |         |                 | #DIV/0! |        |
