@@ -45,11 +45,11 @@ Rata-rata: 8.132407407407406
 **jangan lupa cek issues**
 
 ----
-  ## nilai tugas
+    ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |        |
-| PANDE PUTU VELYA CAHAYA FORTUNA       |            |               |         |                 |       |        |
+| PANDE PUTU VELYA CAHAYA FORTUNA       | 8          | 8             | 9       | 10              | 8.75  |        |
 | RISTA ROSDIANAWATI                    | 8          | 9             | 9       | 10              | 9.0   | 0      |
 | SANDHI WIJAYA ROSGA                   | 9          | 9             | 9       | 10              | 9.25  | 0      |
 | MUHAMMAD AHNAF AMRULLAH               | 9          | 8             | 9       | 10              | 9.0   | 0      |
@@ -71,11 +71,11 @@ Rata-rata: 8.132407407407406
 | ANGELA NATHANIA                       | 7          | 7             | 9       | 10              | 8.25  | 1      |
 | JOHANNA SERENA ALIM                   |            |               |         |                 |       |        |
 | OKTAVIANA LARASATI                    | 8          | 8             | 9       | 10              | 8.75  | 0      |
-| FINCHA IRBAHAZARA ZULFA               |            |               |         |                 |       |        |
+| FINCHA IRBAHAZARA ZULFA               | 9          | 8             | 9       | 10              | 9.0   | 0      |
 | maulidatulfunna1                      |            |               |         |                 |       |        |
 | afifahna                              | 9          | 8             | 9       | 10              | 9.0   | 0      |
 | annenabila                            | 7          | 9             | 9       | 10              | 8.75  | 0      |
 
 
 
- Rata-rata: 8.921875
+ Rata-rata: 8.916666666666666

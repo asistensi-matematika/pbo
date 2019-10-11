@@ -23,6 +23,7 @@ def get_sheet(SHEET, CSV_SPREADSHEET='Asistensi PBO Jumat 2019'):
         except:
             links.append(None)
     df['Issues']=links
+    spread.update_cells('H2','H28',links)
     df.drop(['Catatan', 'REPO'], axis=1, inplace=True)
     return df
 
