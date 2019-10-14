@@ -9,46 +9,6 @@
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |        |
-| PANDE PUTU VELYA CAHAYA FORTUNA       | 7.8        | 9             | 9       | 9               | 8.7   |        |
-| RISTA ROSDIANAWATI                    | 6          | 6             | 9       | 10              | 7.75  |        |
-| SANDHI WIJAYA ROSGA                   | 7          | 9             | 9       | 9               | 8.5   |        |
-| MUHAMMAD AHNAF AMRULLAH               | 6          | 6             | 9       | 9               | 7.5   |        |
-| APRILIA SUSANTI                       | 8          | 9             | 9       | 10              | 9.0   |        |
-| MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN | 9          | 9             | 9       | 7               | 8.5   |        |
-| DITA PRIHATINI                        | 7          | 9             | 9       | 10              | 8.75  |        |
-| HABIBATUL AZKIYAH                     | 9          | 9             | 9       | 10              | 9.25  |        |
-| DWI RISMAYANTI                        |            |               |         |                 |       |        |
-| ADMIRAL NELSON SAMUEL ADYATAMA LITIK  | 9          | 9             | 9       | 9               | 9.0   |        |
-| MUHAMMAD HANIF SULAIMAN ISKANDAR      |            |               |         |                 |       |        |
-| WICAKSONO LEKSONO MUHAMAD             | 9          | 9             | 9       | 9               | 9.0   |        |
-| SANTI CLARA                           | 8          | 8             | 9       | 9               | 8.5   |        |
-| ADILA SEKARRATRI DWI PRAYITNO         |            |               |         |                 |       |        |
-| MADE ASTLA DELLA MAREITA              | 7          | 8             | 9       | 9               | 8.25  |        |
-| MUH SYAFIQ HIDAYATULLAH               | 7          | 9             | 9       | 7               | 8.0   |        |
-| WAHYU TRIA ISTIGHOSAH MN              |            |               |         |                 |       |        |
-| IZHAR BRUR ABRUZI                     | 7          | 9             | 9       | 8               | 8.25  |        |
-| TSAMARAH RANA NUGRAHA                 | 9          | 7             | 9       | 7               | 8.0   |        |
-| ANGELA NATHANIA                       | 9          | 9             | 9       | 7               | 8.5   |        |
-| JOHANNA SERENA ALIM                   | 9          | 9             | 9       | 7               | 8.5   |        |
-| OKTAVIANA LARASATI                    | 7.5        | 8             | 9       | 8               | 8.125 |        |
-| FINCHA IRBAHAZARA ZULFA               | 7          | 9             | 9       | 8               | 8.25  |        |
-| maulidatulfunna1                      | 8          | 6             | 9       | 9               | 8.0   |        |
-| afifahna                              | 9          | 9             | 9       | 9               | 9.0   |        |
-| annenabila                            | 7          | 9             | 9       | 8               | 8.25  |        |
-
-
-Rata-rata: 8.132407407407406
-
-# week 2
-- [tugas](https://github.com/asistensi-matematika/tugas2-pbo)
-----
-**jangan lupa cek issues**
-
-----
-
-| Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues |
-| ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------ |
-| FITRIA URBACH                         |            |               |         |                 |       |        |
 | PANDE PUTU VELYA CAHAYA FORTUNA       | 8          | 8             | 9       | 10              | 8.75  | 0      |
 | RISTA ROSDIANAWATI                    | 8          | 9             | 9       | 10              | 9.0   | 0      |
 | SANDHI WIJAYA ROSGA                   | 9          | 9             | 9       | 10              | 9.25  | 0      |
@@ -61,7 +21,7 @@ Rata-rata: 8.132407407407406
 | ADMIRAL NELSON SAMUEL ADYATAMA LITIK  | 9          | 8             | 9       | 10              | 9.0   | 0      |
 | MUHAMMAD HANIF SULAIMAN ISKANDAR      | 8          | 9             | 9       | 10              | 9.0   | 0      |
 | WICAKSONO LEKSONO MUHAMAD             | 9          | 9             | 9       | 9               | 9.0   | 0      |
-| SANTI CLARA                           | 6          | 6             | 9       | 8               | 7.25  | 2      |
+| SANTI CLARA                           | 8          | 8             | 9       | 8               | 8.25  | 0      |
 | ADILA SEKARRATRI DWI PRAYITNO         |            |               |         |                 |       |        |
 | MADE ASTLA DELLA MAREITA              | 7          | 7             | 9       | 10              | 8.25  | 1      |
 | MUH SYAFIQ HIDAYATULLAH               | 9          | 8             | 9       | 10              | 9.0   | 0      |
@@ -78,4 +38,4 @@ Rata-rata: 8.132407407407406
 
 
 
- Rata-rata: 8.829545454545455 Rata-rata: 8.435227272727273
+ Rata-rata: 8.875
