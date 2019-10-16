@@ -5,7 +5,7 @@
 **jangan lupa cek issues**
 
 ----
-
+## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |        |
@@ -44,7 +44,8 @@ Rata-rata: 8.132407407407406
 **jangan lupa cek issues**
 
 ----
-  
+=======
+## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |        |
