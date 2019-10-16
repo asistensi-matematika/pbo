@@ -39,12 +39,12 @@
 Rata-rata: 8.132407407407406
 
 # week 2
-- [tugas](https://github.com/asistensi-matematika/tugas2-pbo)
+- [tugas](https://github.com/asistensi-matematika/tugas3-pbo)
 ----
 **jangan lupa cek issues**
 
 ----
- ## nilai tugas
+  
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |        |
@@ -78,3 +78,45 @@ Rata-rata: 8.132407407407406
 
 
  Rata-rata: 8.875
+
+# week 3
+- [tugas](https://github.com/asistensi-matematika/tugas4-pbo)
+
+----
+**jangan lupa cek issues**
+
+----
+ ## nilai tugas
+| Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues |
+| ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------ |
+| FITRIA URBACH                         |            |               |         |                 |       |        |
+| PANDE PUTU VELYA CAHAYA FORTUNA       |            |               |         |                 |       |        |
+| RISTA ROSDIANAWATI                    |            |               |         |                 |       |        |
+| SANDHI WIJAYA ROSGA                   |            |               |         |                 |       |        |
+| MUHAMMAD AHNAF AMRULLAH               |            |               |         |                 |       |        |
+| APRILIA SUSANTI                       |            |               |         |                 |       |        |
+| MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN |            |               |         |                 |       |        |
+| DITA PRIHATINI                        |            |               |         |                 |       |        |
+| HABIBATUL AZKIYAH                     |            |               |         |                 |       |        |
+| DWI RISMAYANTI                        |            |               |         |                 |       |        |
+| ADMIRAL NELSON SAMUEL ADYATAMA LITIK  |            |               |         |                 |       |        |
+| MUHAMMAD HANIF SULAIMAN ISKANDAR      | 8          | 9             | 9       | 10              | 9.0   | 0      |
+| WICAKSONO LEKSONO MUHAMAD             |            |               |         |                 |       |        |
+| SANTI CLARA                           |            |               |         |                 |       |        |
+| ADILA SEKARRATRI DWI PRAYITNO         |            |               |         |                 |       |        |
+| MADE ASTLA DELLA MAREITA              |            |               |         |                 |       |        |
+| MUH SYAFIQ HIDAYATULLAH               |            |               |         |                 |       |        |
+| WAHYU TRIA ISTIGHOSAH MN              |            |               |         |                 |       |        |
+| IZHAR BRUR ABRUZI                     |            |               |         |                 |       |        |
+| TSAMARAH RANA NUGRAHA                 |            |               |         |                 |       |        |
+| ANGELA NATHANIA                       |            |               |         |                 |       |        |
+| JOHANNA SERENA ALIM                   |            |               |         |                 |       |        |
+| OKTAVIANA LARASATI                    |            |               |         |                 |       |        |
+| FINCHA IRBAHAZARA ZULFA               |            |               |         |                 |       |        |
+| maulidatulfunna1                      |            |               |         |                 |       |        |
+| afifahna                              |            |               |         |                 |       |        |
+| annenabila                            |            |               |         |                 |       |        |
+
+
+
+ Rata-rata: 9.0
