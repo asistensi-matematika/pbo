@@ -5,7 +5,7 @@
 **jangan lupa cek issues**
 
 ----
-## nilai tugas
+ 
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |        |
@@ -45,7 +45,7 @@ Rata-rata: 8.132407407407406
 
 ----
 =======
-## nilai tugas
+ 
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |        |
@@ -87,20 +87,20 @@ Rata-rata: 8.132407407407406
 **jangan lupa cek issues**
 
 ----
- ## nilai tugas
+   ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |        |
 | PANDE PUTU VELYA CAHAYA FORTUNA       |            |               |         |                 |       |        |
-| RISTA ROSDIANAWATI                    |            |               |         |                 |       |        |
+| RISTA ROSDIANAWATI                    | 8          | 9             | 9       | 10              | 9.0   | 0      |
 | SANDHI WIJAYA ROSGA                   |            |               |         |                 |       |        |
 | MUHAMMAD AHNAF AMRULLAH               |            |               |         |                 |       |        |
 | APRILIA SUSANTI                       |            |               |         |                 |       |        |
 | MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN |            |               |         |                 |       |        |
 | DITA PRIHATINI                        |            |               |         |                 |       |        |
-| HABIBATUL AZKIYAH                     |            |               |         |                 |       |        |
+| HABIBATUL AZKIYAH                     | 9          | 9             | 9       | 10              | 9.25  | 0      |
 | DWI RISMAYANTI                        |            |               |         |                 |       |        |
-| ADMIRAL NELSON SAMUEL ADYATAMA LITIK  |            |               |         |                 |       |        |
+| ADMIRAL NELSON SAMUEL ADYATAMA LITIK  | 9          | 9             | 9       | 10              | 9.25  | 0      |
 | MUHAMMAD HANIF SULAIMAN ISKANDAR      | 8          | 9             | 9       | 10              | 9.0   | 0      |
 | WICAKSONO LEKSONO MUHAMAD             |            |               |         |                 |       |        |
 | SANTI CLARA                           |            |               |         |                 |       |        |
@@ -120,4 +120,4 @@ Rata-rata: 8.132407407407406
 
 
 
- Rata-rata: 9.0
+ Rata-rata: 9.125
