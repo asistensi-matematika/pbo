@@ -1,4 +1,4 @@
-public class soal3 {
+public class soal3_2016 {
     public static void main(String[] args) {
         Vektor2D a = new Vektor2D(1, 2);
         Vektor2D b = new Vektor2D(2, 3);

@@ -1,4 +1,4 @@
-public class soal4{
+public class soal4_2016{
     public static void main(String[] args) {
         Point2D a = new Point2D(2,3);
         Point3D b = new Point3D(3,4,5);

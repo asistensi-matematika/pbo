@@ -1,35 +1,34 @@
-public class soal2_2017{
+public class soal2_2017 {
     public static void main(String[] args) {
-        Hewan hewan1 = new kucing();
-        System.out.println("Nilai x = "+ hewan1.x);
-        hewan1.suara(); //gak bisa pake info, karena yang bisa akses info cuman class kucing aja, polymorphism kaya gini hanya bisa akses method yang di override aja
-        anjing dog = new anjing();
-        System.out.println("Nilai x = "+ dog.x);
-        dog.suara(dog);
-        Hewan hewan2 = new anjing();
-        System.out.println("Nilai x = "+ hewan2.x);
-        hewan2.suara();
+        E2 o = new E2(12);
+        System.out.println(o.getA() + "," + o.f(34));
     }
 }
 
-class Hewan{
-    int x;
-    public void suara(){
-        System.out.println("DIAAM");
+class E1 {
+    protected int a;
+
+    public E1(int x) {
+        a = x;
+    }
+
+    public int getA() {
+        return a;
+    }
+
+    public int f(int x) {
+        return x + a;
     }
 }
-class kucing extends Hewan{
-    int x = 10;
-    public void info(){
-        System.out.println("Meeoow..");
+
+class E2 extends E1 {
+    protected int a;
+
+    public E2(int y) {
+        super(y + 100);
     }
-}
-class anjing extends Hewan{
-    int x = 7;
-    public void suara(){
-        System.out.println("woof...");
-    }
-    public void suara (anjing dog){
-        System.out.println("woof woof..");
+
+    public int getA() {
+        return a;
     }
 }
