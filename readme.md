@@ -87,7 +87,7 @@ Rata-rata: 8.132407407407406
 **jangan lupa cek issues**
 
 ----
-   ## nilai tugas
+    ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |        |
@@ -97,7 +97,7 @@ Rata-rata: 8.132407407407406
 | MUHAMMAD AHNAF AMRULLAH               |            |               |         |                 |       |        |
 | APRILIA SUSANTI                       |            |               |         |                 |       |        |
 | MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN |            |               |         |                 |       |        |
-| DITA PRIHATINI                        |            |               |         |                 |       |        |
+| DITA PRIHATINI                        | 8          | 9             | 9       | 10              | 9.0   | 0      |
 | HABIBATUL AZKIYAH                     | 9          | 9             | 9       | 10              | 9.25  | 0      |
 | DWI RISMAYANTI                        |            |               |         |                 |       |        |
 | ADMIRAL NELSON SAMUEL ADYATAMA LITIK  | 9          | 9             | 9       | 10              | 9.25  | 0      |
@@ -108,7 +108,7 @@ Rata-rata: 8.132407407407406
 | MADE ASTLA DELLA MAREITA              |            |               |         |                 |       |        |
 | MUH SYAFIQ HIDAYATULLAH               |            |               |         |                 |       |        |
 | WAHYU TRIA ISTIGHOSAH MN              |            |               |         |                 |       |        |
-| IZHAR BRUR ABRUZI                     |            |               |         |                 |       |        |
+| IZHAR BRUR ABRUZI                     | 8          | 9             | 9       | 10              | 9.0   | 0      |
 | TSAMARAH RANA NUGRAHA                 |            |               |         |                 |       |        |
 | ANGELA NATHANIA                       |            |               |         |                 |       |        |
 | JOHANNA SERENA ALIM                   |            |               |         |                 |       |        |
@@ -120,4 +120,4 @@ Rata-rata: 8.132407407407406
 
 
 
- Rata-rata: 9.125
+ Rata-rata: 9.083333333333334
