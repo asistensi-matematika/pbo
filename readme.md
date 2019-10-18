@@ -87,16 +87,16 @@ Rata-rata: 8.132407407407406
 **jangan lupa cek issues**
 
 ----
- ## nilai tugas
+  ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues  | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |         |        |
 | PANDE PUTU VELYA CAHAYA FORTUNA       | 9          | 9             | 9       | 10              | 9.25  | 0       | 0      |
 | RISTA ROSDIANAWATI                    | 8          | 9             | 9       | 10              | 9.0   | 0       | 0      |
-| SANDHI WIJAYA ROSGA                   |            |               |         |                 |       |         |        |
-| MUHAMMAD AHNAF AMRULLAH               |            |               |         |                 |       |         |        |
+| SANDHI WIJAYA ROSGA                   | 9          | 9             | 9       | 10              | 9.25  |         | 0      |
+| MUHAMMAD AHNAF AMRULLAH               | 9          | 9             | 9       | 10              | 9.25  |         | 1      |
 | APRILIA SUSANTI                       | 9          | 9             | 9       | 10              | 9.25  | 0       | 0      |
-| MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN |            |               |         |                 |       |         |        |
+| MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN | 8          | 9             | 9       | 10              | 9.0   |         |        |
 | DITA PRIHATINI                        | 8          | 9             | 9       | 10              | 9.0   | 0       | 0      |
 | HABIBATUL AZKIYAH                     | 9          | 9             | 9       | 10              | 9.25  | 0       | 0      |
 | DWI RISMAYANTI                        |            |               |         |                 |       |         |        |
@@ -120,4 +120,4 @@ Rata-rata: 8.132407407407406
 
 
 
- Rata-rata: 9.133333333333333
+ Rata-rata: 9.13888888888889
