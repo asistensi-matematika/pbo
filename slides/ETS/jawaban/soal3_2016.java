@@ -9,7 +9,6 @@ public class soal3_2016 {
         System.out.println( d.isVektorNol());
     }
 }
-🤯
 
 class Vektor2D {
     private int X, Y;

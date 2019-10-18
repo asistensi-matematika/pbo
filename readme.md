@@ -87,14 +87,14 @@ Rata-rata: 8.132407407407406
 **jangan lupa cek issues**
 
 ----
-  ## nilai tugas
+    ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues  | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |         |        |
 | PANDE PUTU VELYA CAHAYA FORTUNA       | 9          | 9             | 9       | 10              | 9.25  | 0       | 0      |
 | RISTA ROSDIANAWATI                    | 8          | 9             | 9       | 10              | 9.0   | 0       | 0      |
-| SANDHI WIJAYA ROSGA                   | 9          | 9             | 9       | 10              | 9.25  |         | 0      |
-| MUHAMMAD AHNAF AMRULLAH               | 9          | 9             | 9       | 10              | 9.25  |         | 1      |
+| SANDHI WIJAYA ROSGA                   | 9          | 9             | 9       | 10              | 9.25  | 0       | 0      |
+| MUHAMMAD AHNAF AMRULLAH               | 9          | 9             | 9       | 10              | 9.25  | 1       | 1      |
 | APRILIA SUSANTI                       | 9          | 9             | 9       | 10              | 9.25  | 0       | 0      |
 | MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN | 8          | 9             | 9       | 10              | 9.0   |         |        |
 | DITA PRIHATINI                        | 8          | 9             | 9       | 10              | 9.0   | 0       | 0      |
@@ -113,11 +113,11 @@ Rata-rata: 8.132407407407406
 | ANGELA NATHANIA                       | 7          | 9             | 9       | 10              | 8.75  | 1       | 1      |
 | JOHANNA SERENA ALIM                   | 9          | 9             | 9       | 10              | 9.25  | 0       | 0      |
 | OKTAVIANA LARASATI                    |            |               |         |                 |       |         |        |
-| FINCHA IRBAHAZARA ZULFA               |            |               |         |                 |       |         |        |
+| FINCHA IRBAHAZARA ZULFA               | 8          | 9             | 9       | 10              | 9.0   | 0       | 0      |
 | maulidatulfunna1                      | 9          | 9             | 9       | 10              | 9.25  | 1       | 1      |
-| afifahna                              |            |               |         |                 |       |         |        |
+| afifahna                              | 8          | 9             | 9       | 10              | 9.0   | 1       | 1      |
 | annenabila                            | 8          | 9             | 9       | 10              | 9.0   | 0       | 0      |
 
 
 
- Rata-rata: 9.13888888888889
+ Rata-rata: 9.125
