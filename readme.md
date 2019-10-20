@@ -87,7 +87,7 @@ Rata-rata: 8.132407407407406
 **jangan lupa cek issues**
 
 ----
-    ## nilai tugas
+     ## nilai tugas
 | Nama                                  | Formatting | Hasil Running | Laporan | Ketepatan Waktu | Nilai | Issues  | Issues |
 | ------------------------------------- | ---------- | ------------- | ------- | --------------- | ----- | ------- | ------ |
 | FITRIA URBACH                         |            |               |         |                 |       |         |        |
@@ -105,14 +105,14 @@ Rata-rata: 8.132407407407406
 | WICAKSONO LEKSONO MUHAMAD             |            |               |         |                 |       |         |        |
 | SANTI CLARA                           | 9          | 9             | 9       | 10              | 9.25  | 0       | 0      |
 | ADILA SEKARRATRI DWI PRAYITNO         |            |               |         |                 |       |         |        |
-| MADE ASTLA DELLA MAREITA              |            |               |         |                 |       |         |        |
+| MADE ASTLA DELLA MAREITA              | 9          | 9             | 9       | 10              | 9.25  |         |        |
 | MUH SYAFIQ HIDAYATULLAH               | 9          | 9             | 9       | 10              | 9.25  | 0       | 0      |
 | WAHYU TRIA ISTIGHOSAH MN              |            |               |         |                 |       |         |        |
 | IZHAR BRUR ABRUZI                     | 8          | 9             | 9       | 10              | 9.0   | 0       | 0      |
 | TSAMARAH RANA NUGRAHA                 | 9          | 9             | 9       | 10              | 9.25  | 0       | 0      |
 | ANGELA NATHANIA                       | 7          | 9             | 9       | 10              | 8.75  | 1       | 1      |
 | JOHANNA SERENA ALIM                   | 9          | 9             | 9       | 10              | 9.25  | 0       | 0      |
-| OKTAVIANA LARASATI                    |            |               |         |                 |       |         |        |
+| OKTAVIANA LARASATI                    | 8          | 9             | 9       | 7               | 8.25  |         |        |
 | FINCHA IRBAHAZARA ZULFA               | 8          | 9             | 9       | 10              | 9.0   | 0       | 0      |
 | maulidatulfunna1                      | 9          | 9             | 9       | 10              | 9.25  | 1       | 1      |
 | afifahna                              | 8          | 9             | 9       | 10              | 9.0   | 1       | 1      |
@@ -120,4 +120,10 @@ Rata-rata: 8.132407407407406
 
 
 
- Rata-rata: 9.125
+ Rata-rata: 9.090909090909092
+
+
+ # week 4
+ **tidak ada tugas di week4, karena membahas ETS**
+ - [pembahasan ets](slides/ETS/jawaban/ETS.ipynb)
+ - [live coding](slides/ETS/__live.java)
